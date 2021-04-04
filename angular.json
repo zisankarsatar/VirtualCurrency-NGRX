@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngrxstore"
+    }
+  },
+  "defaultProject": "ngrxstore",
+  "cli": {
+    "analytics": false
+  }
 }
